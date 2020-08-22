@@ -1,5 +1,5 @@
 # Collatz_conjecture
-This very simple program explore and return the values of the Collatz conjecture for a chosen number. 
+This very simple Python program explore and return the values of the Collatz conjecture for a chosen number. 
 
 The Collatz conjecture:
 
